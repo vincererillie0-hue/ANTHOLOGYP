@@ -1,0 +1,7 @@
+client/
+  index.html
+  src/
+    main.tsx
+    App.tsx
+    vite-env.d.ts
+vite.config.ts
